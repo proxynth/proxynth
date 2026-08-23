@@ -13,7 +13,6 @@ I prefer staying close to the code, owning complex technical problems and helpin
 
 ## Selected work
 
-- [Payment Sandbox](https://github.com/proxynth/payment-sandbox) — a deterministic simulator for testing payment integrations, retries, webhooks and concurrent operations.
 - [LaraWebhook](https://github.com/proxynth/LaraWebhook) — a Laravel package for signed webhooks, idempotency, retries, replay and audit trails.
 
 More technical writing and project case studies: [proxynth.github.io](https://proxynth.github.io/)
