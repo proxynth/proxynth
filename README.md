@@ -1,6 +1,10 @@
 # Proxynth
 
-Senior Backend Engineer focused on systems that are understandable, testable and reliable in production.
+Senior Backend Engineer with close to 10 years building systems that are understandable, testable and reliable in production.
+
+My career has taken me across digital publishing and e-commerce, EV charging, online communities, event platforms and multi-product SaaS. The common thread has been backend engineering: integrations, migrations, data flows and keeping systems dependable in production.
+
+More recently, my work has included payment and subscription domains, cross-product backend services, cloud infrastructure and traceable data workflows. I use coding agents as part of that work, with tests, static analysis and human review around generated code.
 
 I work mainly with:
 
