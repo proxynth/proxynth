@@ -36,13 +36,13 @@ More recently, I have worked on payment and subscription domains, cross-product 
 
 A Go simulator for testing payment workflows against asynchronous events and distributed-system failures.
 
-\`Go\` · \`Payments\` · \`Testing\`
+**Go** · **Payments** · **Testing**
 
 ### [LaraWebhook](https://github.com/proxynth/LaraWebhook)
 
 A Laravel package for signed webhooks, idempotency, retries, replay and audit trails.
 
-\`PHP\` · \`Laravel\` · \`Webhooks\`
+**PHP** · **Laravel** · **Webhooks**
 
 ## How I work
 
