@@ -1,4 +1,4 @@
-# Proxynth
+<h1><img src="https://proxynth.github.io/assets/brand/proxynth_avatar_128px.png" alt="" width="36" height="36" /> Proxynth</h1>
 
 Senior Backend Engineer with close to 10 years building systems that are understandable, testable and reliable in production.
 
