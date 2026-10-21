@@ -1,12 +1,12 @@
-<h1><img src="https://proxynth.github.io/assets/brand/proxynth_avatar_128px.png" alt="" width="36" height="36" /> Proxynth</h1>
+<h1 align="center"><img src="https://proxynth.github.io/assets/brand/proxynth_avatar_128px.png" alt="" width="44" height="44" /> Proxynth</h1>
 
-Senior Backend Engineer with close to 10 years building systems that are understandable, testable and reliable in production.
+<p align="center"><strong>Senior Backend Engineer</strong><br />Building backend systems that are understandable, testable and reliable in production.</p>
 
 My career has taken me across digital publishing and e-commerce, EV charging, online communities, event platforms and multi-product SaaS. The common thread has been backend engineering: integrations, migrations, data flows and keeping systems dependable in production.
 
 More recently, my work has included payment and subscription domains, cross-product backend services, cloud infrastructure and traceable data workflows. I use coding agents as part of that work, with tests, static analysis and human review around generated code.
 
-I work mainly with:
+## Areas of focus
 
 - **Backend engineering** — PHP/Laravel and Go
 - **Distributed systems** — boundaries, asynchronous flows and failure handling
