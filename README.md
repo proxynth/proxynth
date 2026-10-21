@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://proxynth.github.io/assets/brand/proxynth_avatar_128px.png" alt="" width="48" height="48" align="middle" /> Proxynth</h1>
+<h1 align="center"><img src="https://proxynth.github.io/assets/brand/proxynth_avatar_128px.png" alt="" width="48" height="48" align="top" /> Proxynth</h1>
 
 <p align="center">
   <strong>Senior Backend Engineer</strong><br />
